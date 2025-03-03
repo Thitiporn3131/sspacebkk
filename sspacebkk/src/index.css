@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Roboto", "Zeyada";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  src: url(assets/fonts/RobotoCondensed-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "Zeyada";
+  font-style: normal;
+  font-weight: 300;
+  src: url(assets/fonts/Zeyada-Regular.ttf);
+}
+@font-face {
+  font-family: "BodoniModa";
+  font-style: normal;
+  font-weight: 600;
+  src: url(assets/fonts/BodoniModa_72pt-SemiBoldItalic.ttf);
+}
+.boostText {
+  font-family: "BodoniModa";
+  font-style: normal;
+  font-size: 56px;
+  color: black;
+}

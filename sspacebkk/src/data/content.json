@@ -1,0 +1,112 @@
+{
+    "categories": [
+        {
+            "title": "Glow & Gram",
+            "data": [
+                {
+                    "title": "Autumn swim wear",
+                    "description" : "Classic autumn swim wear 2025",
+                    "image": "./images/woman-autumn-swim-wear.jpg"
+                },{
+                    "title": "Classic dress",
+                    "description" : "Elegant dress for all",
+                    "image": "./images/woman-classic-dress.jpg"
+                },{
+                    "title": "Crop top #elle",
+                    "description" : "Easy to matched in everyday look",
+                    "image": "./images/woman-crop1.jpg"
+                },{
+                    "title": "Red velvet classic dress",
+                    "description" : "Made your spacial moment more memorable. ",
+                    "image": "./images/woman-red-velvet.jpg"
+                }
+            ]
+        },{
+            "title": "Kiddie zone",
+            "data": [
+                {
+                    "title": "Matcha set",
+                    "description" : "Sweet matcha flavor set for kid",
+                    "image": "./images/kid-matcha-set.jpg"
+                },{
+                    "title": "Back n White set",
+                    "description" : "Perfect match set.",
+                    "image": "./images/kid-two-tone.jpg"
+                },{
+                    "title": "Kid with lavender",
+                    "description" : "Lavender mini dress",
+                    "image": "./images/kid-with-lavender.jpg"
+                },{
+                    "title": "Daylight vibes set",
+                    "description" : "Cute yellow vibes set boost your kid day!",
+                    "image": "./images/kid-yellow-vibes.jpg"
+                }
+            ]
+        }
+        
+
+    ],
+    "footer":{
+        "items":[
+            {
+                "title":"Need Help",
+                "list":[
+                    {
+                        "label":"Contact Us",
+                        "path":"/contact-us"
+                    },
+                    {
+                        "label":"Track Order",
+                        "path":"/track-order"
+                    },
+                    {
+                        "label":"Returns & Refunds",
+                        "path":"/refunds"
+                    },
+                    {
+                        "label":"FAQ's",
+                        "path":"/faq"
+                    },
+                    {
+                        "label":"Career",
+                        "path":"/career"
+                    }
+                ]
+            },{
+                "title":"Company",
+                "list":[
+                    {
+                        "label":"About Us",
+                        "path":"/about"
+                    },
+                    {
+                        "label":"Media",
+                        "path":"/media"
+                    }
+                ]
+            },{
+                "title":"More Info",
+                "list":[
+                    {
+                        "label":"Term and Conditions",
+                        "path":"/terms-conditions"
+                    },
+                    {
+                        "label":"Privacy Policy",
+                        "path":"/policies"
+                    },
+                    {
+                        "label":"Shipping Policy",
+                        "path":"/policies"
+                    }
+                ]
+            },
+            {
+                "title":"Location",
+                "description":"Location Country"
+            }
+        ],
+        "copyright":"Copyright © 2024 sspace.bkk"
+
+    }
+}
