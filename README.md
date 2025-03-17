@@ -12,7 +12,10 @@ Features
 Tech stack
 ReactJs, Java spring boot, Postgresql, Tailwind css
 
+Project Status
 
+- frontend (Debugging UI in HomePage,Add more product)
+- backend (Todo)
 
 
 
